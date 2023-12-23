@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import random
-number = random.randint (-10, 10)
+number = random.randint(-10, 10)
 
 # Code checking wether a number is positive or negative
 if number > 0:
