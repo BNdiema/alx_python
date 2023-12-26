@@ -6,4 +6,4 @@ for i in range (10):
         if i < 8 or j < 9:
             print('{:d}{:d}' .format(i, j), end = ', ' )
         else:
-            print ('{:d}{:d}' .format (i, j), '\n')
+            print ('{:d}{:d}' .format(i, j), '\n')
